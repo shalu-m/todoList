@@ -1,0 +1,28 @@
+.bg{
+  background-color: darkgray;
+  
+  padding: 10px;
+  width: 500px;
+  margin: auto;
+  border: 4px solid black;
+  
+  
+  
+}
+.bg .done .text{
+  text-decoration: line-through;
+ 
+}
+.change{
+  text-align: left;
+ 
+}
+.done{
+  text-align: left;
+  
+}
+
+
+
+
+
